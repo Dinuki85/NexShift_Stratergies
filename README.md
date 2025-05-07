@@ -69,16 +69,10 @@ nexshift-frontend/
 
 ## 🙋‍♀️ Author
 
-**Prarthana Rajapaksha**  
-Full Stack Developer | Project Lead  
+**Dinuki Prarthana**  
+Full Stack Developer | Web Site Developer  
 🌐 [LinkedIn](https://linkedin.com/in/dinuki-prarthana)  
 💻 [GitHub](https://github.com/Dinuki85)
-
----
-
-## 💬 Backend Repo
-
-🔗 [Backend of the nexshift](https://github.com/Dinuki85/nexshift_backend.git)
 
 ---
 
