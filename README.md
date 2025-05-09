@@ -80,8 +80,23 @@ nexshift-backend/
 
 ## 📄 License
 
-Licensed under the **MIT License**
+Proprietary License
 
-> 🔐 This backend is proprietary to **NEX Shift Strategies Pvt Ltd** and cannot be reproduced without permission.
+Copyright © 2025 NEX Shift Strategies Pvt Ltd
+
+All rights reserved.
+
+This software and associated documentation files (the “Software”) are the exclusive property of
+NEX Shift Strategies Pvt Ltd. Unauthorized copying, distribution, modification, or use of this
+software, in whole or in part, is strictly prohibited unless prior written permission is obtained
+from the company.
+
+You may not:
+- Reproduce or use this code in commercial or open-source products
+- Distribute or sublicense the code
+- Modify or reuse parts of this codebase for any other project
+
+Violation of these terms may result in legal action.
+
 
 
